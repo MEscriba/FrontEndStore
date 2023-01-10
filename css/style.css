@@ -92,14 +92,18 @@ footer {
     padding: 1rem 0;
     display: flex;
     justify-content: center;
-    gap: 2rem; /**separacion forma nueva**/
+    /**separacion forma nueva  --> gap: 2rem;**/
 }
 
 .navegacion__enlace {
     font-family: var(--fuentePrincipal);
     font-size: 3rem;
     color: var(--blanco);
+    margin-right: 2rem;
 
+}
+.navegacion__enlace:last-of-type {
+    margin-right: 0;
 }
 
 .navegacion__enlace--activo,
@@ -107,4 +111,24 @@ footer {
     color: var(--secundario);
 }
 
+/**Productos**/
 
+.producto {
+
+}
+
+.producto__imagen {
+
+}
+
+.producto__informacion {
+    
+}
+
+.producto__nombre {
+
+}
+
+.producto__precio {
+    
+}
