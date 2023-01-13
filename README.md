@@ -11,4 +11,4 @@ Tiene basicamente Front End (Html y Css puro!) - Utilizacion de BEM (bloque elem
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Imagen del blog ](https://github.com/MEscriba/Freelancer/blob/main/Captura.PNG)
+![Imagen del blog ](https://github.com/MEscriba/FrontEndStore/blob/main/img/captura.PNG)
