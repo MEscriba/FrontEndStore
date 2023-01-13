@@ -6,7 +6,7 @@ Hola! esta es una pagina web estatica que realice en el curso de Udemy de Desarr
 Tiene basicamente Front End (Html y Css puro!) - Utilizacion de BEM (bloque elemento modificador) para organizar el codigo en css
 
 
-:airplane: se deployo la web en ---> https://zingy-melomakarona-fa0492.netlify.app <---- entra ahi para ver como quedo!!!! 
+:airplane: se deployo la web en ---> https://quiet-dodol-fc72b3.netlify.app <---- entra ahi para ver como quedo!!!! 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
